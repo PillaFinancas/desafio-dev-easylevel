@@ -1,6 +1,6 @@
-# DESAFIO DEV - PILLA - 2021
+### DESAFIO DEV - PILLA - 2021
 
-# SOBRE A PILLA
+### SOBRE A PILLA
 
 89% dos brasileiros não tem nenhuma reserva de emergência. Milhões estão endividados e vivem de salário a salário. O problema é enorme, e estamos aqui para ajudar trabalhadores de baixa e média renda A mudar o seu relacionamento com o dinheiro. Que o dinheiro seja um catalisador de sonhos, e não fonte de problemas.
 
@@ -9,7 +9,7 @@ Ao mesmo tempo, sabemos que um funcionário com problemas graves financeiros ren
 Ajudamos colaboradores a quitar ou evitar dívidas, a passar por emergências financeiras sem que elas se tornem problemas de longo prazo e a construir um planejamento financeiro. Tudo isso em parceria com empresas que desejam oferecer um benefício com impacto direto na vida do colaborador e nos seus resultados.
 
 
-# O desafio
+### O desafio
 
 A empresa ADA te contratou para implementar no sistema de folha de pagamentos uma nova funcionalidade.
 Esse funcionalidade deve receber um salário e realizar um cálculo para reajustar os salários das pessoas e então retornar o valor atualizado.
