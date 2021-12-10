@@ -9,7 +9,7 @@ Ao mesmo tempo, sabemos que um funcionário com problemas graves financeiros ren
 Ajudamos colaboradores a quitar ou evitar dívidas, a passar por emergências financeiras sem que elas se tornem problemas de longo prazo e a construir um planejamento financeiro. Tudo isso em parceria com empresas que desejam oferecer um benefício com impacto direto na vida do colaborador e nos seus resultados.
 
 
-### O desafio
+### O DESAFIO
 
 A empresa ADA te contratou para implementar no sistema de folha de pagamentos uma nova funcionalidade.
 Esse funcionalidade deve receber um salário e realizar um cálculo para reajustar os salários das pessoas e então retornar o valor atualizado.
@@ -22,7 +22,7 @@ O reajuste deve ocorrer com base nessa tabela:
 | R$ 7\.000 | INFINITO     | 5%           |
 
 
-### Requisitos não funcionais
+### REQUISITOS NÃO FUNCIONAIS
 
 - Utilize a linguagem C# .Net preferencialmente, mas caso não se sinta confortável pode usar a linguagem que você mais domina. 
 - Você terá 1h para concluir o teste e fazer o PR para este respositório. Você pode enviar após o prazo, mas o atraso será avaliado.
