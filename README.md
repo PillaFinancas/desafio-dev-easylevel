@@ -25,3 +25,5 @@ O reajuste deve ocorrer com base nessa tabela:
 ## Requisitos não funcionais
 
 - Utilize a linguagem C# .Net preferencialmente, mas caso não se sinta confortável pode usar a linguagem que você mais domina. 
+- Você terá 1h para concluir o teste e fazer o PR para este respositório. Você pode enviar após o prazo, mas o atraso será avaliado.
+- Se tiver teste unitário será considerado um plus;
