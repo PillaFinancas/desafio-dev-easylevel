@@ -1,0 +1,13 @@
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.csproj.AssemblyReference.cache
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.AssemblyInfoInputs.cache
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.AssemblyInfo.cs
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.csproj.CoreCompileInputs.cache
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/bin/Debug/netcoreapp3.1/Desafio-Pilla.deps.json
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/bin/Debug/netcoreapp3.1/Desafio-Pilla.runtimeconfig.json
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/bin/Debug/netcoreapp3.1/Desafio-Pilla.runtimeconfig.dev.json
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/bin/Debug/netcoreapp3.1/Desafio-Pilla.dll
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/bin/Debug/netcoreapp3.1/Desafio-Pilla.pdb
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.dll
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.pdb
+/Users/romullomachado/Projects/Desafio-Pilla/Desafio-Pilla/obj/Debug/netcoreapp3.1/Desafio-Pilla.genruntimeconfig.cache

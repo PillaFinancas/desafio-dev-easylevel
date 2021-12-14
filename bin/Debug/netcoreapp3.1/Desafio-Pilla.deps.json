@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio-Pilla/1.0.0": {
+        "runtime": {
+          "Desafio-Pilla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio-Pilla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
