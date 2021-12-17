@@ -27,3 +27,8 @@ O reajuste deve ocorrer com base nessa tabela:
 - Utilize a linguagem C# .Net preferencialmente, mas caso não se sinta confortável pode usar a linguagem que você mais domina. 
 - Você terá 1h para concluir o teste e fazer o PR para este respositório. Você pode enviar após o prazo, mas o atraso será avaliado.
 - Se tiver teste unitário será considerado um plus;
+
+### EXECUÇÃO DO PROJETO
+
+- A linguagem utilizada foi Python 3.10.0, o arquivo main.py é o arquivo de execução do projeto
+- Existe um arquivo de testes chamado tests.py, que realiza os testes das funções da classe Calculator
